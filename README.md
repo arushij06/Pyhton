@@ -1,2 +1,2 @@
 # Pyhton
-This contains python codes
+This is my frist project file and it contains python codes.
