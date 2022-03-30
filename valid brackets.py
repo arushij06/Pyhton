@@ -18,7 +18,7 @@ for i in s:
             ls.pop()
     else:
         j+=1
-    if j > 0:
+    # if j > 0:
         break
 if len(ls) == 0 and j == 0:
     print("Valid")
