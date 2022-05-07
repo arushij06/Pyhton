@@ -1,5 +1,5 @@
 # Python
-Practicing coding and problem solving problems in python
+Practicing data structures and problem solving problems in python
 
 Solving problems from:
 - Codeforces
